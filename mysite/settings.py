@@ -25,7 +25,7 @@ SECRET_KEY = '*l@v6b(qe0!u4e3f&r4bu-nndpxff0dj%r&p56*&&rk!v^*mv2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rokidoki.pythonanywhere.com']
 
 
 # Application definition
